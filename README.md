@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Joe.K
 
-<!--
-**JoeK212/JoeK212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build single-file, no-build browser tools exploring generative design, parametric systems, and computational architecture.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[modular.massing](https://github.com/JoeK212/modular.massing)** — parametric massing studies using Le Corbusier's Modulor · [live](https://mondrianmodularmassing.netlify.app)
+- **[proun-generator](https://github.com/JoeK212/proun-generator)** *(KONSTRUKTOR)* — generative Proun/Mondrian compositions
+- **[figuregroundv1](https://github.com/JoeK212/figuregroundv1)** *(FIGURE/GROUND)* — Three.js figure-ground relief explorer · [live](https://blackwhitefigurestudies.netlify.app)
+- **[audiospectrogram](https://github.com/JoeK212/audiospectrogram)** *(Sound/Relief)* — audio → spectrogram → CNC-millable G-code · [live](https://audiospectrogramcnc.netlify.app)
+
+Other experiments: Truth Log (barcode-scan research tool), JKML Kitchen (recipe/grocery PWA), Field Notes (shareable notes PWA), Modulor Mondrian (Modulor × Mondrian facade generator).
+
+📍 New York · 🌐 [axisbim.io](https://axisbim.io/)
