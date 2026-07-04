@@ -4,7 +4,7 @@ I build single-file, no-build browser tools exploring generative design, paramet
 
 ## Projects
 
-- **[modular.massing](https://modulor.axisbim.io/)** — parametric facade generator — Le Corbusier x Mondrian
+- **[modular.mondrian](https://modulor.axisbim.io/)** — parametric facade generator — Le Corbusier x Mondrian
 - **[modular.massing](https://github.com/JoeK212/modular.massing)** — parametric massing studies using Le Corbusier's Modulor
 - **[proun-generator](https://github.com/JoeK212/proun-generator)** *(KONSTRUKTOR)* — generative Proun/Mondrian compositions
 - **[figuregroundv1](https://github.com/JoeK212/figuregroundv1)** *(FIGURE/GROUND)* — Three.js figure-ground relief explorer
