@@ -4,7 +4,7 @@ I build single-file, no-build browser tools exploring generative design, paramet
 
 ## Projects
 
-- **[SPIRA](https://github.com/JoeK212/SPIRA)** — SPIRA is a browser-based Three.js tool you built for exploring architectural deformation operations
+- **[SPIRA](https://github.com/JoeK212/SPIRA)** — SPIRA built for exploring architectural deformation operations
 - **[NYC MASSING](https://github.com/JoeK212/NYC.Massing)** — Real NYC building massing, grown from actual PLUTO tax lot records and Building Footprints
 - **[NYC TREE DATA](https://github.com/JoeK212/NYCTreeDataVisualization)** — NYC's 2015 Street Tree Census, grown back as a procedural forest
 - **[MODULOR MONDIAN](https://modulor.axisbim.io/)** — parametric facade generator — Le Corbusier x Mondrian
