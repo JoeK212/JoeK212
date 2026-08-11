@@ -12,8 +12,9 @@ I build single-file, no-build browser tools exploring generative design, paramet
 - **[PROUN GENERATOR](https://github.com/JoeK212/proun-generator)** — generative Proun/Mondrian compositions
 - **[PARALLAX](https://github.com/JoeK212/PARALLAX)** — generative axonometric compositions in the browser, in the spirit of El Lissitzky's Proun plates
 - **[FIGURE GROUND](https://github.com/JoeK212/figuregroundv1)** — Three.js figure-ground relief explorer
-- **[AUDIO SPECTROGRAM](https://github.com/JoeK212/audiospectrogram)** — audio → spectrogram → CNC-millable G-code
 - **[TESSERA TILE PATTERN](https://github.com/JoeK212/tesseratilepattern)** — generative tile pattern engine, square and hex grids
+- **[AUDIO SPECTROGRAM](https://github.com/JoeK212/audiospectrogram)** — audio → spectrogram → CNC-millable G-code
+- **[MURMUR](https://murmurv1.netlify.app/)** — A field of kinetic spheres, inspired by ART+COM's BMW Kinetic Sculpture
 
 
 Other experiments: Truth Log (barcode-scan research tool), JKML Kitchen (recipe/grocery PWA), Field Notes (shareable notes PWA).
