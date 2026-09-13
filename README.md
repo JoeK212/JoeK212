@@ -1,6 +1,6 @@
 <!-- Replace banner.png below with the generated banner image once it's added to the repo -->
 <p align="center">
-  <img src="./banner.png" alt="Geometric constructivist banner" width="100%" />
+  <img src="./hex_truchet.gif" alt="Geometric constructivist banner" width="100%" />
 </p>
 
 # Hi, I'm Joe.K
