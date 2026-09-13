@@ -1,6 +1,6 @@
 <!-- Replace banner.png below with the generated banner image once it's added to the repo -->
 <p align="center">
-  <img src="./hex_truchet.gif" alt="Geometric constructivist banner" width="100%" />
+  <img src="./banner.png" alt="Geometric constructivist banner" width="100%" />
 </p>
 
 # Hi, I'm Joe.K
@@ -27,6 +27,7 @@ I build single-file, no-build browser tools exploring generative design, paramet
 ### Geometry & pattern explorers
 
 - **[SPIRA](https://github.com/JoeK212/SPIRA)** — exploring architectural deformation operations
+- **[HELIX-LON](https://github.com/JoeK212/HELIX-LON)** — a 1961 Deci-Lon slide rule reimagined in 3D — log scales wrapped helically around a shared axis
 - **[FIGURE GROUND](https://github.com/JoeK212/figuregroundv1)** — Three.js figure-ground relief explorer
 - **[TESSERA TILE PATTERN](https://github.com/JoeK212/tesseratilepattern)** — generative tile pattern engine, square and hex grids
 - **[MURMUR](https://github.com/JoeK212/murmur)** — a field of kinetic spheres, inspired by ART+COM's BMW Kinetic Sculpture
