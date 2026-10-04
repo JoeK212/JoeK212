@@ -26,7 +26,7 @@ I build single-file, no-build browser tools exploring generative design, paramet
 
 ### Geometry & pattern explorers
 
-- **[TRACER ATLAS](https://github.com/JoeK212/Tracery)** — exploring architectural deformation operations
+- **[TRACERY ATLAS](https://github.com/JoeK212/Tracery)** — exploring the geometry of architectural windows
 - **[SPIRA](https://github.com/JoeK212/SPIRA)** — exploring architectural deformation operations
 - **[HELIX-LON](https://github.com/JoeK212/HELIX-LON)** — a 1961 Deci-Lon slide rule reimagined in 3D — log scales wrapped helically around a shared axis
 - **[FIGURE GROUND](https://github.com/JoeK212/figuregroundv1)** — Three.js figure-ground relief explorer
