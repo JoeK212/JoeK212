@@ -26,6 +26,7 @@ I build single-file, no-build browser tools exploring generative design, paramet
 
 ### Geometry & pattern explorers
 
+- **[NEGATIVE SPACE](https://github.com/JoeK212/Negative.Space)** — Carves the negative space between real building volumes out of a bounding block, from Overture Maps geometry
 - **[TRACERY ATLAS](https://github.com/JoeK212/Tracery)** — exploring the geometry of architectural windows
 - **[SPIRA](https://github.com/JoeK212/SPIRA)** — exploring architectural deformation operations
 - **[HELIX-LON](https://github.com/JoeK212/HELIX-LON)** — a 1961 Deci-Lon slide rule reimagined in 3D — log scales wrapped helically around a shared axis
