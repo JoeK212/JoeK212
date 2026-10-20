@@ -1,6 +1,5 @@
-<!-- Replace banner.png below with the generated banner image once it's added to the repo -->
 <p align="center">
-  <img src="./hex_truchet.gif" alt="Geometric constructivist banner" width="100%" />
+<img src="./hex_truchet.gif" alt="Geometric constructivist banner" width="100%" />
 </p>
 
 # Hi, I'm Joe.K
@@ -20,6 +19,7 @@ I build single-file, no-build browser tools exploring generative design, paramet
 
 ### Real-world data, grown back as form
 
+- **[STRATA](https://github.com/JoeK212/StrataBIM)** — 3D building dashboard that colours zones by power, HVAC, temperature or occupancy, replaying a week of measured office data; loads your own Revit Rooms
 - **[NYC MASSING](https://github.com/JoeK212/NYC.Massing)** — real NYC building massing, grown from actual PLUTO tax lot records and Building Footprints
 - **[NYC TREE DATA](https://github.com/JoeK212/NYCTreeDataVisualization)** — NYC's 2015 Street Tree Census, grown back as a procedural forest
 - **[AUDIO SPECTROGRAM](https://github.com/JoeK212/audiospectrogram)** — audio → spectrogram → CNC-millable G-code
