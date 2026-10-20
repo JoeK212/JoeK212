@@ -20,13 +20,13 @@ I build single-file, no-build browser tools exploring generative design, paramet
 ### Real-world data, grown back as form
 
 - **[STRATA](https://github.com/JoeK212/StrataBIM)** — 3D building dashboard that colours zones by power, HVAC, temperature or occupancy, replaying a week of measured office data; loads your own Revit Rooms
+- **[NEGATIVE SPACE](https://github.com/JoeK212/Negative.Space)** — Carves the negative space between real building volumes out of a bounding block, from Overture Maps geometry
 - **[NYC MASSING](https://github.com/JoeK212/NYC.Massing)** — real NYC building massing, grown from actual PLUTO tax lot records and Building Footprints
 - **[NYC TREE DATA](https://github.com/JoeK212/NYCTreeDataVisualization)** — NYC's 2015 Street Tree Census, grown back as a procedural forest
 - **[AUDIO SPECTROGRAM](https://github.com/JoeK212/audiospectrogram)** — audio → spectrogram → CNC-millable G-code
 
 ### Geometry & pattern explorers
 
-- **[NEGATIVE SPACE](https://github.com/JoeK212/Negative.Space)** — Carves the negative space between real building volumes out of a bounding block, from Overture Maps geometry
 - **[TRACERY ATLAS](https://github.com/JoeK212/Tracery)** — exploring the geometry of architectural windows
 - **[SPIRA](https://github.com/JoeK212/SPIRA)** — exploring architectural deformation operations
 - **[HELIX-LON](https://github.com/JoeK212/HELIX-LON)** — a 1961 Deci-Lon slide rule reimagined in 3D — log scales wrapped helically around a shared axis
